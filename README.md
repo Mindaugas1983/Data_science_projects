@@ -1,9 +1,9 @@
 # Introduction 
-Hello, this package contains useful python functions and clases for creating prediction models for Ferratum group needs. 
+Hello, this package contains useful python functions and clases for creating prediction models for data scientist needs. 
 Data scientist's who works with python expected to use this library and to contribute in it's continuous development process.
 
 # Getting Started
-Usage of this package in dataiku environment:
+
 
  
 
