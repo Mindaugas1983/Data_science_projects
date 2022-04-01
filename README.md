@@ -8,7 +8,7 @@ Data scientist's who works with python expected to use this library and to contr
  
 
 # Contribute
-There are such files in ferratum_data_science package:
+There are such files in elsis_data_science package:
 
 algorithms.py  - this file contains code related to algorithms and are used in different places of data science project <br>
     You need to have such packages installed in your environment in order to use it:<br>
@@ -50,6 +50,6 @@ tree_linear_separation.py - this file contains code related to scaling of data, 
     You need to have such packages installed in your environment in order to use it:<br>
     'matplotlib', 'pandas', 'numpy', 'sklearn', 'seaborn', 'statsmodels'<br>
 
-Feel free to add new files here if needed or populate functions or classes to existing files. If you change existing function try to change it in that way that it will not break running old projects if possible.
+
 
 
